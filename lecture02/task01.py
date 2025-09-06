@@ -1,5 +1,2 @@
-
-print("hello world")
-print("hello world")
-print("hello world")
-print("george")0
+x= input("Enter your name:")
+print("Hello", x)
